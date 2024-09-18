@@ -2,7 +2,7 @@
 
 ## Sobre Mim 📖
 
-Olá! Eu sou um desenvolvedor back-end especializado em Node.js. Tenho paixão por resolver problemas complexos e adoro trabalhar com automações utilizando Cypress. Além disso, sou um grande entusiasta do Linux e utilizo essa plataforma em meu dia a dia para maximizar a produtividade e a eficiência no desenvolvimento de software.
+Olá! Eu sou um desenvolvedor full-stack em nestjs e laravel para back-end e react, vue para front-end e react-native para mobile. Tenho paixão por resolver problemas complexos e adoro trabalhar com automações utilizando Cypress e python. Além disso, sou um grande entusiasta do Linux e utilizo essa plataforma em meu dia a dia para maximizar a produtividade e a eficiência no desenvolvimento de software.
 
 ## Habilidades 👨‍💻
 
