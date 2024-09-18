@@ -30,22 +30,16 @@ Olá! Eu sou um desenvolvedor full-stack em nestjs e laravel para back-end e rea
 
 <p>Sinta-se à vontade para entrar em contato comigo através das minhas redes sociais ou por e-mail.</p>
 
-<ul style="list-style-type: none; padding: 0; display: flex;">
-  <li style="margin-bottom: 10px;">
+<div style="list-style-type: none; padding: 0; display: flex;">
     <a href="https://www.linkedin.com/in/matheus-prestes-de-melo/" style="text-decoration: none; color: #0e76a8; margin: 10px; font-size: 12pt">
-      <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" style="margin: auto 5px; width: 30px; vertical-align: middle;"> LinkedIn
+      <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" style="margin: auto 5px; width: 30px; vertical-align: middle;">
     </a>
-  </li>
-  <li style="margin-bottom: 10px;">
     <a href="https://x.com/Matheus_744" style="text-decoration: none; color: #1DA1F2; margin: 10px; font-size: 12pt">
-      <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" style="margin: auto 5px; width: 30px; vertical-align: middle;"> Twitter
+      <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" style="margin: auto 5px; width: 30px; vertical-align: middle;">
     </a>
-  </li>
-  <li style="margin-bottom: 10px;">
     <a href="mailto:matheusprestesdmelo744@gmail.com" style="text-decoration: none; color: #BB001B; margin: 10px; font-size: 12pt">
-      <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" style="margin: auto 5px; width: 30px; vertical-align: middle;"> E-mail
+      <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" style="margin: auto 5px; width: 30px; vertical-align: middle;">
     </a>
-  </li>
-</ul>
+</div>
 
 <p>Obrigado por visitar meu GitHub! Vamos colaborar e construir algo incrível juntos.</p>
