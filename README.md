@@ -1,45 +1,64 @@
-# Bem-vindo ao meu GitHub! 😁
+# Matheus Melo
 
-## Sobre Mim 📖
+Software Engineer especializado no desenvolvimento de sistemas distribuídos, APIs escaláveis e soluções cloud-native.
 
-Olá! Eu sou um desenvolvedor full-stack em nestjs e laravel para back-end e react, vue para front-end e react-native para mobile. Tenho paixão por resolver problemas complexos e adoro trabalhar com automações utilizando Cypress e python. Além disso, sou um grande entusiasta do Linux e utilizo essa plataforma em meu dia a dia para maximizar a produtividade e a eficiência no desenvolvimento de software.
+Atualmente atuo na construção e evolução de plataformas de alta disponibilidade, contribuindo para decisões arquiteturais, definição de padrões de engenharia e implementação de soluções alinhadas aos objetivos de negócio.
 
-## Habilidades 👨‍💻
+Minha experiência inclui desenvolvimento backend com Node.js, TypeScript e NestJS, arquitetura baseada em microsserviços, computação em nuvem (Google Cloud Platform e AWS), DevOps, automação de processos e observabilidade.
 
-- **Node.js**: Desenvolvimento de aplicações back-end escaláveis e de alta performance.
-- **Cypress**: Automação de testes end-to-end para garantir a qualidade do software.
-- **Linux**: Utilização e administração de sistemas Linux para desenvolvimento e deploy.
-- **TypeScript**: Escrever código JavaScript fortemente tipado para maior robustez.
-- **NestJS**: Estruturar aplicações Node.js de forma modular e eficiente.
+## Áreas de Atuação
 
-## Tecnologias e Ferramentas 🛠️
+* Software Engineering
+* Software Architecture
+* Backend Development
+* Cloud-Native Solutions
+* Distributed Systems
+* Microservices
+* DevOps & CI/CD
+* System Design
+* API Development
 
-<span align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height="40" style="margin: auto 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="40" style="margin: auto 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" style="margin: auto 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" style="margin: auto 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" height="40" style="margin: auto 10px;" />          
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" height="40" style="margin: auto 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" style="margin: auto 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="40" style="margin: auto 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" style="margin: auto 10px;" />
-</span>
+## Tecnologias
 
-## Contato ☎️
+### Backend
 
-<p>Sinta-se à vontade para entrar em contato comigo através das minhas redes sociais ou por e-mail.</p>
+* Node.js
+* TypeScript
+* NestJS
+* PHP
+* Laravel
 
-<div style="list-style-type: none; padding: 0; display: flex;">
-    <a href="https://www.linkedin.com/in/matheus-prestes-de-melo/" style="text-decoration: none; color: #0e76a8; margin: 10px; font-size: 12pt">
-      <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" style="margin: auto 5px; width: 30px; vertical-align: middle;">
-    </a>
-    <a href="https://x.com/Matheus_744" style="text-decoration: none; color: #1DA1F2; margin: 10px; font-size: 12pt">
-      <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" style="margin: auto 5px; width: 30px; vertical-align: middle;">
-    </a>
-    <a href="mailto:matheusprestesdmelo744@gmail.com" style="text-decoration: none; color: #BB001B; margin: 10px; font-size: 12pt">
-      <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" style="margin: auto 5px; width: 30px; vertical-align: middle;">
-    </a>
-</div>
+### Cloud & DevOps
 
-<p>Obrigado por visitar meu GitHub! Vamos colaborar e construir algo incrível juntos.</p>
+* Google Cloud Platform (GCP)
+* Amazon Web Services (AWS)
+* Docker
+* GitHub Actions
+* Jenkins
+* Rancher
+
+### Frontend & Mobile
+
+* React
+* Vue.js
+* React Native
+
+### Ferramentas
+
+* Git
+* Linux
+* Cypress
+* Python
+
+## Filosofia
+
+Acredito que software de qualidade vai além da implementação de funcionalidades. Meu foco está na construção de sistemas sustentáveis, escaláveis e resilientes, utilizando boas práticas de engenharia para criar soluções que gerem valor real para o negócio e possam evoluir de forma consistente ao longo do tempo.
+
+## Contato
+
+* LinkedIn: linkedin.com/in/matheus-prestes-de-melo
+* E-mail: [matheusprestesdmelo744@gmail.com](mailto:matheusprestesdmelo744@gmail.com)
+
+---
+
+Sempre aberto a discutir arquitetura de software, sistemas distribuídos, computação em nuvem e engenharia de plataformas.
